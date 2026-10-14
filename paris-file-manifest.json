@@ -1,0 +1,102 @@
+[
+  {
+    "filename": "PXL_20260813_230054756.jpg",
+    "bytes": 699327,
+    "dimensions": [
+      1536,
+      2048
+    ],
+    "sha256": "ec638b6c31e96fcd2ec2b6d13d7503d9cd8d3fa40464e6a2d75178c857f30c1c",
+    "readable_exif_present": false
+  },
+  {
+    "filename": "PXL_20260812_200337658.MP.jpg",
+    "bytes": 466932,
+    "dimensions": [
+      1536,
+      2048
+    ],
+    "sha256": "8183d5c377eeae5cf199e7143e0989c9e22f215324a0d0db2c95fc47e05f3ad7",
+    "readable_exif_present": false
+  },
+  {
+    "filename": "PXL_20260813_230047258.jpg",
+    "bytes": 788207,
+    "dimensions": [
+      1536,
+      2048
+    ],
+    "sha256": "175aa20b6ab33458241c6b23f1e2528ac5b0c166ec2463a019499f0f92427f7b",
+    "readable_exif_present": false
+  },
+  {
+    "filename": "PXL_20260813_230045895.jpg",
+    "bytes": 837181,
+    "dimensions": [
+      1536,
+      2048
+    ],
+    "sha256": "7c4096177953becc93a339b5d8f88734c80708315cfa874eca27400afc3a8cc8",
+    "readable_exif_present": false
+  },
+  {
+    "filename": "PXL_20260817_122207921 (2).jpg",
+    "bytes": 984023,
+    "dimensions": [
+      1536,
+      2048
+    ],
+    "sha256": "31a784756c991c05001fdb3a6e58ffde15225b449f9d15f2876d58075b884bd4",
+    "readable_exif_present": false
+  },
+  {
+    "filename": "PXL_20260813_230048402.jpg",
+    "bytes": 675721,
+    "dimensions": [
+      1536,
+      2048
+    ],
+    "sha256": "543c9427c2d66d860dcacb97f83de873659e6d39bb87fc28fb5e4aa1bf42fe97",
+    "readable_exif_present": false
+  },
+  {
+    "filename": "PXL_20260812_200340611.MP.jpg",
+    "bytes": 498213,
+    "dimensions": [
+      1536,
+      2048
+    ],
+    "sha256": "9682056a2959988107b36f8b97bb76cd4641c0271d832100bb3cd26c7e50a424",
+    "readable_exif_present": false
+  },
+  {
+    "filename": "04-22209.png",
+    "bytes": 150005,
+    "dimensions": [
+      706,
+      1536
+    ],
+    "sha256": "e8681fb124cdb7d2db6e39b4e8c75ffd64af015aaf367cc2f68f7a88b6a8057e",
+    "readable_exif_present": false
+  },
+  {
+    "filename": "01-22212.png",
+    "bytes": 223119,
+    "dimensions": [
+      706,
+      1536
+    ],
+    "sha256": "f8f1205cbca8931d2be152aa2123eff98075231cbc6dd7af95e00c078fdad76b",
+    "readable_exif_present": false
+  },
+  {
+    "filename": "03-22210.png",
+    "bytes": 186029,
+    "dimensions": [
+      706,
+      1536
+    ],
+    "sha256": "3b0731c23d16925049e0e86f8cc25e2d792c8f159ab53bc6a57f3a38673ae39d",
+    "readable_exif_present": false
+  }
+]
