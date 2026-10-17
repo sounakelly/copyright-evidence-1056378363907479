@@ -1,0 +1,230 @@
+[
+  {
+    "filename": "PXL_20260813_112618548.PORTRAIT.jpg",
+    "bytes": 3706987,
+    "sha256": "3193012b31cad2edea29bafbff42eb983a85f6b60069baef5ea63345b65ee111",
+    "width": 3000,
+    "height": 4000,
+    "camera_make": "Google",
+    "camera_model": "Pixel 10",
+    "capture_time": "2026:08:13 13:26:18",
+    "capture_offset": "+02:00",
+    "modification_time": "2026:08:13 13:26:18",
+    "gps": {
+      "GPSVersionID": "\u0002\u0002\u0000\u0000",
+      "GPSLatitudeRef": "N",
+      "GPSLatitude": [
+        "48.0",
+        "51.0",
+        "41.69"
+      ],
+      "GPSLongitudeRef": "E",
+      "GPSLongitude": [
+        "2.0",
+        "20.0",
+        "6.89"
+      ],
+      "GPSAltitudeRef": "\u0000",
+      "GPSAltitude": "80.19",
+      "GPSTimeStamp": [
+        "11.0",
+        "26.0",
+        "8.0"
+      ],
+      "GPSDateStamp": "2026:08:13"
+    },
+    "id": "P-01",
+    "position": "1 of 17",
+    "title": "Louvre pyramid portrait",
+    "role": "claimed photograph"
+  },
+  {
+    "filename": "PXL_20260813_174908565.jpg",
+    "bytes": 4153772,
+    "sha256": "e4c9b8be56acb805cfdca1a303f1fd61bf7c20712890e61e1540d1c9e72d1c65",
+    "width": 3000,
+    "height": 4000,
+    "camera_make": "Google",
+    "camera_model": "Pixel 10",
+    "capture_time": "2026:08:13 19:49:08",
+    "capture_offset": "+02:00",
+    "modification_time": "2026:08:13 19:49:08",
+    "gps": {
+      "GPSVersionID": "\u0002\u0002\u0000\u0000",
+      "GPSLatitudeRef": "N",
+      "GPSLatitude": [
+        "48.0",
+        "53.0",
+        "4.59"
+      ],
+      "GPSLongitudeRef": "E",
+      "GPSLongitude": [
+        "2.0",
+        "20.0",
+        "17.32"
+      ],
+      "GPSAltitudeRef": "\u0000",
+      "GPSAltitude": "127.9",
+      "GPSTimeStamp": [
+        "17.0",
+        "49.0",
+        "5.0"
+      ],
+      "GPSImgDirectionRef": "M",
+      "GPSImgDirection": "29.0",
+      "GPSDateStamp": "2026:08:13"
+    },
+    "id": "P-05",
+    "position": "13 of 17",
+    "title": "Bicycle photograph",
+    "role": "claimed photograph"
+  },
+  {
+    "filename": "PXL_20260813_092429075~2.jpg",
+    "bytes": 3050495,
+    "sha256": "e011fb1d5921066d478ae8ed6a3465c6ad9d710a83e6432efe7e4920f3114446",
+    "width": 3000,
+    "height": 4000,
+    "camera_make": null,
+    "camera_model": null,
+    "capture_time": "2026:08:13 11:24:29",
+    "capture_offset": null,
+    "modification_time": "2026:08:23 16:52:30",
+    "gps": {},
+    "id": "P-15",
+    "position": "Position not visible",
+    "title": "Louvre archway view",
+    "role": "claimed photograph"
+  },
+  {
+    "filename": "PXL_20260814_095326541.jpg",
+    "bytes": 888823,
+    "sha256": "96c3a7a693c66f267bc556f7b71883255a19fc3a5d25c7bcde8bf296cb0f334e",
+    "width": 1536,
+    "height": 2048,
+    "camera_make": null,
+    "camera_model": null,
+    "capture_time": null,
+    "capture_offset": null,
+    "modification_time": null,
+    "gps": {},
+    "id": "P-16",
+    "position": "Position not visible",
+    "title": "Open-book photograph",
+    "role": "claimed photograph"
+  },
+  {
+    "filename": "PXL_20260813_174913565.MP.jpg",
+    "bytes": 7849148,
+    "sha256": "b0029f2c3d3c3404634ff7c9fee2d5048afca00bade5c7ea206118eaecd794e9",
+    "width": 3000,
+    "height": 4000,
+    "camera_make": "Google",
+    "camera_model": "Pixel 10",
+    "capture_time": "2026:08:13 19:49:13",
+    "capture_offset": "+02:00",
+    "modification_time": "2026:08:13 19:49:13",
+    "gps": {
+      "GPSVersionID": "\u0002\u0002\u0000\u0000",
+      "GPSLatitudeRef": "N",
+      "GPSLatitude": [
+        "48.0",
+        "53.0",
+        "4.59"
+      ],
+      "GPSLongitudeRef": "E",
+      "GPSLongitude": [
+        "2.0",
+        "20.0",
+        "17.32"
+      ],
+      "GPSAltitudeRef": "\u0000",
+      "GPSAltitude": "127.9",
+      "GPSTimeStamp": [
+        "17.0",
+        "49.0",
+        "5.0"
+      ],
+      "GPSImgDirectionRef": "M",
+      "GPSImgDirection": "54.0",
+      "GPSDateStamp": "2026:08:13"
+    },
+    "role": "supporting alternate; not a claimed match"
+  },
+  {
+    "filename": "PXL_20260814_095329349.MP.jpg",
+    "bytes": 6347075,
+    "sha256": "e4dac1b1b28f29df1db695c757da7e7d4da1e34ed4d57c9f3547c42320ff9c6f",
+    "width": 3000,
+    "height": 4000,
+    "camera_make": "Google",
+    "camera_model": "Pixel 10",
+    "capture_time": "2026:08:14 11:53:29",
+    "capture_offset": "+02:00",
+    "modification_time": "2026:08:14 11:53:29",
+    "gps": {
+      "GPSVersionID": "\u0002\u0002\u0000\u0000",
+      "GPSLatitudeRef": "N",
+      "GPSLatitude": [
+        "48.0",
+        "52.0",
+        "1.35"
+      ],
+      "GPSLongitudeRef": "E",
+      "GPSLongitude": [
+        "2.0",
+        "20.0",
+        "23.81"
+      ],
+      "GPSAltitudeRef": "\u0000",
+      "GPSAltitude": "81.4",
+      "GPSTimeStamp": [
+        "9.0",
+        "51.0",
+        "50.0"
+      ],
+      "GPSImgDirectionRef": "M",
+      "GPSImgDirection": "148.0",
+      "GPSDateStamp": "2026:08:14"
+    },
+    "role": "supporting alternate; not a claimed match"
+  },
+  {
+    "filename": "PXL_20260814_095332212.jpg",
+    "bytes": 2841504,
+    "sha256": "0b0d4f6501c119f4d5d937a51e158b54abd2a82bff568a881e08e70e29d73171",
+    "width": 3000,
+    "height": 4000,
+    "camera_make": "Google",
+    "camera_model": "Pixel 10",
+    "capture_time": "2026:08:14 11:53:32",
+    "capture_offset": "+02:00",
+    "modification_time": "2026:08:14 11:53:32",
+    "gps": {
+      "GPSVersionID": "\u0002\u0002\u0000\u0000",
+      "GPSLatitudeRef": "N",
+      "GPSLatitude": [
+        "48.0",
+        "52.0",
+        "1.35"
+      ],
+      "GPSLongitudeRef": "E",
+      "GPSLongitude": [
+        "2.0",
+        "20.0",
+        "23.81"
+      ],
+      "GPSAltitudeRef": "\u0000",
+      "GPSAltitude": "81.4",
+      "GPSTimeStamp": [
+        "9.0",
+        "51.0",
+        "50.0"
+      ],
+      "GPSImgDirectionRef": "M",
+      "GPSImgDirection": "153.0",
+      "GPSDateStamp": "2026:08:14"
+    },
+    "role": "supporting alternate; not a claimed match"
+  }
+]

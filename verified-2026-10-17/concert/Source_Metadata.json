@@ -1,0 +1,280 @@
+[
+  {
+    "filename": "PXL_20260820_052209844.jpg",
+    "bytes": 1737109,
+    "sha256": "a0c17a334f31db6c21266ea638c6f9625a17a4cada040c93a2cb7a6aff34e9b0",
+    "width": 3000,
+    "height": 4000,
+    "camera_make": "Google",
+    "camera_model": "Pixel 10",
+    "capture_time": "2026:08:19 22:22:09",
+    "capture_offset": "-07:00",
+    "modification_time": "2026:08:19 22:22:09",
+    "gps": {
+      "GPSVersionID": "\u0002\u0002\u0000\u0000",
+      "GPSLatitudeRef": "N",
+      "GPSLatitude": [
+        "33.0",
+        "26.0",
+        "43.88"
+      ],
+      "GPSLongitudeRef": "W",
+      "GPSLongitude": [
+        "112.0",
+        "4.0",
+        "15.33"
+      ],
+      "GPSAltitudeRef": "\u0000",
+      "GPSAltitude": "304.3",
+      "GPSTimeStamp": [
+        "5.0",
+        "21.0",
+        "20.0"
+      ],
+      "GPSImgDirectionRef": "M",
+      "GPSImgDirection": "325.0",
+      "GPSDateStamp": "2026:08:20"
+    },
+    "id": "R-01",
+    "position": "1 of 5",
+    "title": "Side-facing concert portrait",
+    "role": "claimed photograph"
+  },
+  {
+    "filename": "PXL_20260820_052330238.jpg",
+    "bytes": 2148720,
+    "sha256": "ea47ff13bf3bdd43e6c2c798e3174a993c3b88c78ae9fd02cc72a93e4414f6be",
+    "width": 3000,
+    "height": 4000,
+    "camera_make": "Google",
+    "camera_model": "Pixel 10",
+    "capture_time": "2026:08:19 22:23:30",
+    "capture_offset": "-07:00",
+    "modification_time": "2026:08:19 22:23:30",
+    "gps": {
+      "GPSVersionID": "\u0002\u0002\u0000\u0000",
+      "GPSLatitudeRef": "N",
+      "GPSLatitude": [
+        "33.0",
+        "26.0",
+        "43.86"
+      ],
+      "GPSLongitudeRef": "W",
+      "GPSLongitude": [
+        "112.0",
+        "4.0",
+        "15.43"
+      ],
+      "GPSAltitudeRef": "\u0000",
+      "GPSAltitude": "302.9",
+      "GPSTimeStamp": [
+        "5.0",
+        "22.0",
+        "23.0"
+      ],
+      "GPSImgDirectionRef": "M",
+      "GPSImgDirection": "17.0",
+      "GPSDateStamp": "2026:08:20"
+    },
+    "id": "R-03",
+    "position": "3 of 5",
+    "title": "Front-facing concert portrait",
+    "role": "claimed photograph"
+  },
+  {
+    "filename": "PXL_20260820_040146512.jpg",
+    "bytes": 1969134,
+    "sha256": "ad81c8a009fbc317bf8abfaa4cfe12f4c8cc4d706c60a67786a17faf0ddc3ac1",
+    "width": 3000,
+    "height": 4000,
+    "camera_make": "Google",
+    "camera_model": "Pixel 10",
+    "capture_time": "2026:08:19 21:01:46",
+    "capture_offset": "-07:00",
+    "modification_time": "2026:08:19 21:01:46",
+    "gps": {
+      "GPSVersionID": "\u0002\u0002\u0000\u0000",
+      "GPSLatitudeRef": "N",
+      "GPSLatitude": [
+        "33.0",
+        "26.0",
+        "43.8"
+      ],
+      "GPSLongitudeRef": "W",
+      "GPSLongitude": [
+        "112.0",
+        "4.0",
+        "15.46"
+      ],
+      "GPSAltitudeRef": "\u0000",
+      "GPSAltitude": "302.7",
+      "GPSTimeStamp": [
+        "4.0",
+        "1.0",
+        "43.0"
+      ],
+      "GPSImgDirectionRef": "M",
+      "GPSImgDirection": "320.0",
+      "GPSDateStamp": "2026:08:20"
+    },
+    "id": "R-04",
+    "position": "Position not visible",
+    "title": "Arena / stage photograph",
+    "role": "claimed photograph"
+  },
+  {
+    "filename": "PXL_20260820_052238572.jpg",
+    "bytes": 1734956,
+    "sha256": "cc81a5e2dc5480763929eadf169c6c33d824c4b313a7d428d2407763eb13aa4f",
+    "width": 3000,
+    "height": 4000,
+    "camera_make": "Google",
+    "camera_model": "Pixel 10",
+    "capture_time": "2026:08:19 22:22:38",
+    "capture_offset": "-07:00",
+    "modification_time": "2026:08:19 22:22:38",
+    "gps": {
+      "GPSVersionID": "\u0002\u0002\u0000\u0000",
+      "GPSLatitudeRef": "N",
+      "GPSLatitude": [
+        "33.0",
+        "26.0",
+        "43.86"
+      ],
+      "GPSLongitudeRef": "W",
+      "GPSLongitude": [
+        "112.0",
+        "4.0",
+        "15.43"
+      ],
+      "GPSAltitudeRef": "\u0000",
+      "GPSAltitude": "302.9",
+      "GPSTimeStamp": [
+        "5.0",
+        "22.0",
+        "23.0"
+      ],
+      "GPSImgDirectionRef": "M",
+      "GPSImgDirection": "13.0",
+      "GPSDateStamp": "2026:08:20"
+    },
+    "id": "R-02",
+    "position": "5 of 5",
+    "title": "Second front-facing concert portrait",
+    "role": "claimed photograph"
+  },
+  {
+    "filename": "PXL_20260820_052017402.MP.jpg",
+    "bytes": 6875667,
+    "sha256": "9b5a04dca00ea7427f28ea24fef998361ec929af2d36d4fb85e9880eb566ee31",
+    "width": 3000,
+    "height": 4000,
+    "camera_make": "Google",
+    "camera_model": "Pixel 10",
+    "capture_time": "2026:08:19 22:20:17",
+    "capture_offset": "-07:00",
+    "modification_time": "2026:08:19 22:20:17",
+    "gps": {
+      "GPSVersionID": "\u0002\u0002\u0000\u0000",
+      "GPSLatitudeRef": "N",
+      "GPSLatitude": [
+        "33.0",
+        "26.0",
+        "43.98"
+      ],
+      "GPSLongitudeRef": "W",
+      "GPSLongitude": [
+        "112.0",
+        "4.0",
+        "15.29"
+      ],
+      "GPSAltitudeRef": "\u0000",
+      "GPSAltitude": "304.3",
+      "GPSTimeStamp": [
+        "5.0",
+        "19.0",
+        "6.0"
+      ],
+      "GPSImgDirectionRef": "M",
+      "GPSImgDirection": "351.0",
+      "GPSDateStamp": "2026:08:20"
+    },
+    "role": "supporting alternate; not a claimed match"
+  },
+  {
+    "filename": "PXL_20260820_052032076.jpg",
+    "bytes": 1946613,
+    "sha256": "617e97894e58662151589aa87bd97ce815e56351b3c221a8fee41cfbed6ad997",
+    "width": 3000,
+    "height": 4000,
+    "camera_make": "Google",
+    "camera_model": "Pixel 10",
+    "capture_time": "2026:08:19 22:20:32",
+    "capture_offset": "-07:00",
+    "modification_time": "2026:08:19 22:20:32",
+    "gps": {
+      "GPSVersionID": "\u0002\u0002\u0000\u0000",
+      "GPSLatitudeRef": "N",
+      "GPSLatitude": [
+        "33.0",
+        "26.0",
+        "43.98"
+      ],
+      "GPSLongitudeRef": "W",
+      "GPSLongitude": [
+        "112.0",
+        "4.0",
+        "15.29"
+      ],
+      "GPSAltitudeRef": "\u0000",
+      "GPSAltitude": "304.3",
+      "GPSTimeStamp": [
+        "5.0",
+        "19.0",
+        "6.0"
+      ],
+      "GPSImgDirectionRef": "M",
+      "GPSImgDirection": "317.0",
+      "GPSDateStamp": "2026:08:20"
+    },
+    "role": "supporting alternate; not a claimed match"
+  },
+  {
+    "filename": "PXL_20260820_052128255.jpg",
+    "bytes": 1784921,
+    "sha256": "8e8efc64221684b0bee0859a24507f078af5087079e9b9d42ed48180b22c627e",
+    "width": 3000,
+    "height": 4000,
+    "camera_make": "Google",
+    "camera_model": "Pixel 10",
+    "capture_time": "2026:08:19 22:21:28",
+    "capture_offset": "-07:00",
+    "modification_time": "2026:08:19 22:21:28",
+    "gps": {
+      "GPSVersionID": "\u0002\u0002\u0000\u0000",
+      "GPSLatitudeRef": "N",
+      "GPSLatitude": [
+        "33.0",
+        "26.0",
+        "43.88"
+      ],
+      "GPSLongitudeRef": "W",
+      "GPSLongitude": [
+        "112.0",
+        "4.0",
+        "15.33"
+      ],
+      "GPSAltitudeRef": "\u0000",
+      "GPSAltitude": "304.3",
+      "GPSTimeStamp": [
+        "5.0",
+        "21.0",
+        "20.0"
+      ],
+      "GPSImgDirectionRef": "M",
+      "GPSImgDirection": "296.0",
+      "GPSDateStamp": "2026:08:20"
+    },
+    "role": "supporting alternate; not a claimed match"
+  }
+]

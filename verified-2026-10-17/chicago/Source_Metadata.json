@@ -1,0 +1,276 @@
+[
+  {
+    "filename": "PXL_20260628_190459056.PORTRAIT.jpg",
+    "bytes": 4675442,
+    "sha256": "24220aae7311aa11a65bd9d1bfc61fe7bb4c49b19d7e245dd54b5a20a09c549a",
+    "width": 3000,
+    "height": 4000,
+    "camera_make": "Google",
+    "camera_model": "Pixel 10",
+    "capture_time": "2026:06:28 14:04:59",
+    "capture_offset": "-05:00",
+    "modification_time": "2026:06:28 14:04:59",
+    "gps": {
+      "GPSVersionID": "\u0002\u0002\u0000\u0000",
+      "GPSLatitudeRef": "N",
+      "GPSLatitude": [
+        "41.0",
+        "53.0",
+        "7.07"
+      ],
+      "GPSLongitudeRef": "W",
+      "GPSLongitude": [
+        "87.0",
+        "37.0",
+        "42.26"
+      ],
+      "GPSAltitudeRef": "\u0000",
+      "GPSAltitude": "148.4",
+      "GPSTimeStamp": [
+        "19.0",
+        "4.0",
+        "9.0"
+      ],
+      "GPSDateStamp": "2026:06:28"
+    },
+    "id": "C-13",
+    "position": "1 of 10",
+    "title": "Chicago Theatre portrait",
+    "role": "claimed photograph"
+  },
+  {
+    "filename": "PXL_20260627_161327542.jpg",
+    "bytes": 4013869,
+    "sha256": "2f5174c5e6df34a01620ed9f647d459b9e5ebb880031eef6ab9226c14b2d37a8",
+    "width": 3000,
+    "height": 4000,
+    "camera_make": "Google",
+    "camera_model": "Pixel 10",
+    "capture_time": "2026:06:27 11:13:27",
+    "capture_offset": "-05:00",
+    "modification_time": "2026:06:27 11:13:27",
+    "gps": {
+      "GPSVersionID": "\u0002\u0002\u0000\u0000",
+      "GPSLatitudeRef": "N",
+      "GPSLatitude": [
+        "41.0",
+        "53.0",
+        "14.1"
+      ],
+      "GPSLongitudeRef": "W",
+      "GPSLongitude": [
+        "87.0",
+        "37.0",
+        "56.49"
+      ],
+      "GPSAltitudeRef": "\u0000",
+      "GPSAltitude": "152.47",
+      "GPSTimeStamp": [
+        "16.0",
+        "13.0",
+        "26.0"
+      ],
+      "GPSImgDirectionRef": "M",
+      "GPSImgDirection": "307.0",
+      "GPSDateStamp": "2026:06:27"
+    },
+    "id": "C-01",
+    "position": "2 of 10",
+    "title": "Daytime Chicago river view",
+    "role": "claimed photograph"
+  },
+  {
+    "filename": "PXL_20260627_173526234.jpg",
+    "bytes": 3696032,
+    "sha256": "29b0a3c2f31e2f007f554905aacb061c61c2f71cd43a6a692e184d1f9ab56303",
+    "width": 3000,
+    "height": 4000,
+    "camera_make": "Google",
+    "camera_model": "Pixel 10",
+    "capture_time": "2026:06:27 12:35:26",
+    "capture_offset": "-05:00",
+    "modification_time": "2026:06:27 12:35:26",
+    "gps": {
+      "GPSVersionID": "\u0002\u0002\u0000\u0000",
+      "GPSLatitudeRef": "N",
+      "GPSLatitude": [
+        "41.0",
+        "53.0",
+        "10.74"
+      ],
+      "GPSLongitudeRef": "W",
+      "GPSLongitude": [
+        "87.0",
+        "37.0",
+        "56.71"
+      ],
+      "GPSAltitudeRef": "\u0000",
+      "GPSAltitude": "152.5",
+      "GPSTimeStamp": [
+        "17.0",
+        "34.0",
+        "8.0"
+      ],
+      "GPSImgDirectionRef": "M",
+      "GPSImgDirection": "305.0",
+      "GPSDateStamp": "2026:06:27"
+    },
+    "id": "C-03",
+    "position": "4 of 10",
+    "title": "Bridge portrait",
+    "role": "claimed photograph"
+  },
+  {
+    "filename": "PXL_20260628_044253883.jpg",
+    "bytes": 3376244,
+    "sha256": "29895c9a6a5c27fb6326d2fe2af3b528f58b5f849a5308292ec47192d1297d21",
+    "width": 3000,
+    "height": 4000,
+    "camera_make": "Google",
+    "camera_model": "Pixel 10",
+    "capture_time": "2026:06:27 23:42:53",
+    "capture_offset": "-05:00",
+    "modification_time": "2026:06:27 23:42:53",
+    "gps": {
+      "GPSVersionID": "\u0002\u0002\u0000\u0000",
+      "GPSLatitudeRef": "N",
+      "GPSLatitude": [
+        "41.0",
+        "53.0",
+        "20.68"
+      ],
+      "GPSLongitudeRef": "W",
+      "GPSLongitude": [
+        "87.0",
+        "37.0",
+        "33.97"
+      ],
+      "GPSAltitudeRef": "\u0000",
+      "GPSAltitude": "216.8",
+      "GPSTimeStamp": [
+        "4.0",
+        "42.0",
+        "49.0"
+      ],
+      "GPSImgDirectionRef": "M",
+      "GPSImgDirection": "293.0",
+      "GPSDateStamp": "2026:06:28"
+    },
+    "id": "C-08",
+    "position": "10 of 10",
+    "title": "Nighttime Chicago river view",
+    "role": "claimed photograph"
+  },
+  {
+    "filename": "PXL_20260628_190457367.PORTRAIT.jpg",
+    "bytes": 4764147,
+    "sha256": "66b45dbef58a0974a16e1041da46962bbe05bf44922c7c72fe87a17272edb389",
+    "width": 3000,
+    "height": 4000,
+    "camera_make": "Google",
+    "camera_model": "Pixel 10",
+    "capture_time": "2026:06:28 14:04:57",
+    "capture_offset": "-05:00",
+    "modification_time": "2026:06:28 14:04:57",
+    "gps": {
+      "GPSVersionID": "\u0002\u0002\u0000\u0000",
+      "GPSLatitudeRef": "N",
+      "GPSLatitude": [
+        "41.0",
+        "53.0",
+        "7.07"
+      ],
+      "GPSLongitudeRef": "W",
+      "GPSLongitude": [
+        "87.0",
+        "37.0",
+        "42.26"
+      ],
+      "GPSAltitudeRef": "\u0000",
+      "GPSAltitude": "148.4",
+      "GPSTimeStamp": [
+        "19.0",
+        "4.0",
+        "9.0"
+      ],
+      "GPSDateStamp": "2026:06:28"
+    },
+    "role": "supporting alternate; not a claimed match"
+  },
+  {
+    "filename": "PXL_20260627_173525264.MP.jpg",
+    "bytes": 6355539,
+    "sha256": "b71ee57979fba1b8cd495f480becd413cbfd9b229205b0653d214a70768498ac",
+    "width": 3000,
+    "height": 4000,
+    "camera_make": "Google",
+    "camera_model": "Pixel 10",
+    "capture_time": "2026:06:27 12:35:25",
+    "capture_offset": "-05:00",
+    "modification_time": "2026:06:27 12:35:25",
+    "gps": {
+      "GPSVersionID": "\u0002\u0002\u0000\u0000",
+      "GPSLatitudeRef": "N",
+      "GPSLatitude": [
+        "41.0",
+        "53.0",
+        "10.74"
+      ],
+      "GPSLongitudeRef": "W",
+      "GPSLongitude": [
+        "87.0",
+        "37.0",
+        "56.71"
+      ],
+      "GPSAltitudeRef": "\u0000",
+      "GPSAltitude": "152.5",
+      "GPSTimeStamp": [
+        "17.0",
+        "34.0",
+        "8.0"
+      ],
+      "GPSImgDirectionRef": "M",
+      "GPSImgDirection": "325.0",
+      "GPSDateStamp": "2026:06:27"
+    },
+    "role": "supporting alternate; not a claimed match"
+  },
+  {
+    "filename": "PXL_20260627_173531557.jpg",
+    "bytes": 3437784,
+    "sha256": "d006e941ecd8f5030c989008317d1893b043fb77d12ee3fa6cc904942ee7851f",
+    "width": 3000,
+    "height": 4000,
+    "camera_make": "Google",
+    "camera_model": "Pixel 10",
+    "capture_time": "2026:06:27 12:35:31",
+    "capture_offset": "-05:00",
+    "modification_time": "2026:06:27 12:35:31",
+    "gps": {
+      "GPSVersionID": "\u0002\u0002\u0000\u0000",
+      "GPSLatitudeRef": "N",
+      "GPSLatitude": [
+        "41.0",
+        "53.0",
+        "10.74"
+      ],
+      "GPSLongitudeRef": "W",
+      "GPSLongitude": [
+        "87.0",
+        "37.0",
+        "56.71"
+      ],
+      "GPSAltitudeRef": "\u0000",
+      "GPSAltitude": "152.5",
+      "GPSTimeStamp": [
+        "17.0",
+        "34.0",
+        "8.0"
+      ],
+      "GPSImgDirectionRef": "M",
+      "GPSImgDirection": "63.0",
+      "GPSDateStamp": "2026:06:27"
+    },
+    "role": "supporting alternate; not a claimed match"
+  }
+]
