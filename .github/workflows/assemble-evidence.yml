@@ -1,0 +1,38 @@
+name: One-time verified evidence assembly
+on:
+  push:
+    branches: [evidence-publication-20261018]
+    paths: ['.evidence-transfer/manifest.json']
+permissions:
+  contents: write
+jobs:
+  assemble:
+    if: github.repository == 'sounakelly/copyright-evidence-1056378363907479'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate and assemble only the twelve authorized evidence files
+        shell: python
+        run: |
+          import base64, hashlib, io, pathlib, subprocess, zipfile, shutil
+          root=pathlib.Path('.')
+          allowed=["chicago-carousel-evidence.html","concert-carousel-evidence.html","paris-carousel-evidence.html","verified-2026-10-17/chicago/Chicago_Evidence.pdf","verified-2026-10-17/chicago/Chicago_Evidence.html","verified-2026-10-17/paris/Paris_Evidence.pdf","verified-2026-10-17/paris/Paris_Evidence.html","verified-2026-10-17/paris/Source_Metadata.json","verified-2026-10-17/concert/Concert_Evidence.pdf","verified-2026-10-17/concert/Concert_Evidence.html","verified-2026-10-17/paris/sources/PXL_20260813_092429075.jpg","verified-2026-10-17/paris/sources/PXL_20260814_095326541.jpg"]
+          expected='5a1e493e0844f557c2b207723114832df79cb1d77a68b60a926bf24c38682a9c'
+          chunks=sorted(pathlib.Path('.evidence-transfer').glob('part-*.txt'))
+          raw=b''.join(base64.b64decode(p.read_text(),validate=True) for p in chunks)
+          assert hashlib.sha256(raw).hexdigest()==expected
+          z=zipfile.ZipFile(io.BytesIO(raw))
+          assert sorted(z.namelist())==sorted(allowed)
+          for name in allowed:
+              p=root/name
+              assert not p.is_symlink()
+              p.parent.mkdir(parents=True,exist_ok=True)
+              p.write_bytes(z.read(name))
+          shutil.rmtree('.evidence-transfer')
+          pathlib.Path('.github/workflows/assemble-evidence.yml').unlink()
+          subprocess.run(['git','config','user.name','github-actions[bot]'],check=True)
+          subprocess.run(['git','config','user.email','41898282+github-actions[bot]@users.noreply.github.com'],check=True)
+          subprocess.run(['git','add','--']+allowed+['.evidence-transfer','.github/workflows/assemble-evidence.yml'],check=True)
+          subprocess.run(['git','commit','-m','Publish twelve verified evidence files; remove temporary transfer workflow'],check=True)
+          subprocess.run(['git','push','origin','HEAD:evidence-publication-20261018'],check=True)
