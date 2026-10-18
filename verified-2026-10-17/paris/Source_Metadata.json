@@ -80,17 +80,41 @@
     "role": "claimed photograph"
   },
   {
-    "filename": "PXL_20260813_092429075~2.jpg",
-    "bytes": 3050495,
-    "sha256": "e011fb1d5921066d478ae8ed6a3465c6ad9d710a83e6432efe7e4920f3114446",
+    "filename": "PXL_20260813_092429075.jpg",
+    "bytes": 3485412,
+    "sha256": "b8ff9611db9db50296e2602795ac74dc277ffb1e73af3fd4b4d176f8168d9db1",
     "width": 3000,
     "height": 4000,
-    "camera_make": null,
-    "camera_model": null,
+    "camera_make": "Google",
+    "camera_model": "Pixel 10",
     "capture_time": "2026:08:13 11:24:29",
-    "capture_offset": null,
-    "modification_time": "2026:08:23 16:52:30",
-    "gps": {},
+    "capture_offset": "+02:00",
+    "modification_time": "2026:08:13 11:24:29",
+    "gps": {
+      "GPSVersionID": "\u0002\u0002\u0000\u0000",
+      "GPSLatitudeRef": "N",
+      "GPSLatitude": [
+        "48.0",
+        "51.0",
+        "35.94"
+      ],
+      "GPSLongitudeRef": "E",
+      "GPSLongitude": [
+        "2.0",
+        "20.0",
+        "15.24"
+      ],
+      "GPSAltitudeRef": "\u0000",
+      "GPSAltitude": "80.8",
+      "GPSTimeStamp": [
+        "9.0",
+        "24.0",
+        "25.0"
+      ],
+      "GPSImgDirectionRef": "M",
+      "GPSImgDirection": "188.0",
+      "GPSDateStamp": "2026:08:13"
+    },
     "id": "P-15",
     "position": "Position not visible",
     "title": "Louvre archway view",
@@ -98,16 +122,40 @@
   },
   {
     "filename": "PXL_20260814_095326541.jpg",
-    "bytes": 888823,
-    "sha256": "96c3a7a693c66f267bc556f7b71883255a19fc3a5d25c7bcde8bf296cb0f334e",
-    "width": 1536,
-    "height": 2048,
-    "camera_make": null,
-    "camera_model": null,
-    "capture_time": null,
-    "capture_offset": null,
-    "modification_time": null,
-    "gps": {},
+    "bytes": 3092672,
+    "sha256": "4dd1f407abb24e7ddafe34b0df11e8e46960c555a146f969928a50bdd40d01b5",
+    "width": 3000,
+    "height": 4000,
+    "camera_make": "Google",
+    "camera_model": "Pixel 10",
+    "capture_time": "2026:08:14 11:53:26",
+    "capture_offset": "+02:00",
+    "modification_time": "2026:08:14 11:53:26",
+    "gps": {
+      "GPSVersionID": "\u0002\u0002\u0000\u0000",
+      "GPSLatitudeRef": "N",
+      "GPSLatitude": [
+        "48.0",
+        "52.0",
+        "1.35"
+      ],
+      "GPSLongitudeRef": "E",
+      "GPSLongitude": [
+        "2.0",
+        "20.0",
+        "23.81"
+      ],
+      "GPSAltitudeRef": "\u0000",
+      "GPSAltitude": "81.4",
+      "GPSTimeStamp": [
+        "9.0",
+        "51.0",
+        "50.0"
+      ],
+      "GPSImgDirectionRef": "M",
+      "GPSImgDirection": "145.0",
+      "GPSDateStamp": "2026:08:14"
+    },
     "id": "P-16",
     "position": "Position not visible",
     "title": "Open-book photograph",
